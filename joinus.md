@@ -12,7 +12,17 @@ Note that the University of Bristol has been particularly successful in getting 
 <br>
 
 ### PhD students
-<header class="masthead text-justify" style="font-size:120%">UK PhDs take 3-4 years and usually start in September (although this is flexible). If you would like to do a PhD in the group, we have a range of projects available on computational modelling of synaptic plasticity, learning and memory; and statistical analysis of neural activity data. Most projects involve collaborations with experimentalists either here in Bristol, or Europe or US. Please contact me to discuss funding options, which vary a lot depending on your country of origin. Usually you would need a good Bachelors or Masters degree in computer science, biology, physics, engineering or maths before taking on a computational neuroscience PhD - but other backgrounds are possible. However, the most important thing is not your background, but that you enjoy research work, are curious, and want to understand how the brain works.</header>
+
+<header class="masthead text-justify" style="font-size:120%">
+
+<b>Neural Dynamics Wellcome Trust doctoral program</b><br>
+The <a href="https://www.bristol.ac.uk/neural-dynamics/" target="_blank">Neural Dynamics PhD</a> is a unique program in the world in that it aims to provide world-class training to students interested in working at the intersection between computational and experimental neuroscience.<br><br>
+
+<b>EPSRC Centres for Doctoral Training</b><br>
+Bristol has a wide range of CDTs that align with our research (e.g. COMPASS, Digital Health and Interactive AI). You can find a detailed list <a href="http://www.bristol.ac.uk/doctoral-college/doctoral-training-centres/" target="_blank">here</a>. Contact individual PIs if you are interested in these programs.<br><br>
+
+<b>More info</b><br>
+UK PhDs take 3-4 years and usually start in September (although this is flexible). If you would like to do a PhD in the group, we have a range of projects available on computational modelling of synaptic plasticity, learning and memory; and statistical analysis of neural activity data. Most projects involve collaborations with experimentalists either here in Bristol, or Europe or US. Please contact us to discuss funding options, which vary a lot depending on your country of origin. Usually you would need a good Bachelors or Masters degree in computer science, biology, physics, engineering or maths before taking on a computational neuroscience PhD - but other backgrounds are possible. However, the most important thing is not your background, but that you enjoy research work, are curious, and want to understand how the brain works.</header>
 <br>
 
 #### Master students
@@ -22,7 +32,7 @@ If you are a student on the University of Bristol Conversion or Advanced MSc in 
 
 #### Undergrad students
 <header class="masthead text-justify" style="font-size:120%">
-If you are a student on the University of Bristol BSc or MEng degree in Computer Science (or a related degree), please contact me early in the academic year to discuss possible computational neuroscience projects. Projects can vary in their 1) level of computational/mathematical difficulty, 2) level of biological detail, and 3) whether they are more focused on computational modelling (simulating the brain) versus statistical data analysis/machine learning. It also would be good, but not essential, if you take or have taken the Computational Neuroscience unit taught by Cian O'Donell, Conor Houghton and Rui Ponte Costa.</header>
+If you are a student on the University of Bristol BSc or MEng degree in Computer Science (or a related degree), please contact us early in the academic year to discuss possible computational neuroscience projects. Projects can vary in their 1) level of computational/mathematical difficulty, 2) level of biological detail, and 3) whether they are more focused on computational modelling (simulating the brain) versus statistical data analysis/machine learning. It also would be good, but not essential, if you take or have taken one of our teaching units (<i>Computational Neuroscience</i> and <i>Information Processing and the Brain</i>) jointly taught by Cian O'Donell, Conor Houghton and Rui Ponte Costa.</header>
 <br>
 
 <!-- ### Research

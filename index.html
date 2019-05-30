@@ -40,23 +40,26 @@ layout: default
                 </p>
             </div>
             {% endif %}
+            {% if forloop.index0 == 2 %}
+              {% break %}
+            {% endif %}
           {% endfor %}
         </div>
       </header>
         <br>
-        <header class="masthead text-right">
+        <!--<header class="masthead text-right">
         Join our mailing list:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <form method="POST" action="https://formspree.io/conor.houghton@bristol.ac.uk">
   <input type="email" name="email" placeholder="Your email">&nbsp;&nbsp;&nbsp;
   <textarea name="message" style="display:none;" placeholder="Please add me to the CNU mailing list.">Please add me to the CNU mailing list.</textarea>
   <button type="submit">Send</button>
-</form><br></header>
+</form><br></header>-->
 
         <table>
 
 
         <header class="masthead text-center">
-          <tbody border=0>
+          <tbody>
 <tr>
 <td>        <header class="masthead text-left"><font size=4><b>Location</b></font>
         <div style="line-height:50%;">

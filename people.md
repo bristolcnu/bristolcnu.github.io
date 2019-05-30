@@ -45,15 +45,20 @@ permalink: /people/
     {% if profile.position contains item %}
     <div class="list-item-people">
       <p class="list-post-title">
-        {% if profile.avatar %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+        {% if profile.website %}
+          {% assign url_tmp = profile.website %}
         {% else %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" height="230" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+          {% assign url_tmp = site.baseurl | append: profile.url %}
         {% endif %}
-        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+        {% if profile.avatar %}
+        <a href="{{url_tmp}}"><img width="200" height="230" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+        {% else %}
+        <a href=""><img width="200" height="230" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
+        {% endif %}
+        <a class="name" href="{{url_tmp}}">{{ profile.name }}</a>
         {% if profile.affiliation %}
         <br><small><span style="color:#9d9d9d">{{ profile.affiliation }}</span></small>
-        {% endif %}        
+        {% endif %}
       </p>
     </div>    
     {% endif %}
@@ -89,9 +94,9 @@ permalink: /people/
 | [Iris Vilares](https://scholar.google.com/citations?user=Ztwn608AAAAJ&hl=en)   | Graduate Student (2009-2013) | Postdoc, University of Virginia and University College London (w. Peter Dayan) |
 | Ben Walker     | Research Engineer (2010-2013) | MS in ME at Northwestern University, Masanet lab |
 | Bill Lotter    | Research Scientist (2012-2013)| PhD at MIT |
-| Mark Albert	   | (Dec 2009 - Dec 2012) | Asst Prof, Loyola University, Computer Science |
+| Mark Albert    | (Dec 2009 - Dec 2012) | Asst Prof, Loyola University, Computer Science |
 | Yoshiyuki (Yoshi) Sato | Visiting Professor (2012 - 2013) | Asst Prof, Univ of Electro-Communications, Tokyo |
-| Petra Conaway	Clinical | Coordinator (2012) | Continuing her work at RIC |
+| Petra Conaway Clinical | Coordinator (2012) | Continuing her work at RIC |
 | Rich Li | Rotation Student (Fall 2012) | Continuing Rotations |
 | James Ellis | Rotation Student (Fall 2012) | Continuing Rotations |
 | Hamid Buini | Summer Intern (2012) | University of Southern Florida |
