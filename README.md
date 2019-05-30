@@ -1,7 +1,7 @@
-# Kording lab (Bayesian Behavior Lab) page
+# Bristol Computational Neuroscience Unit page
 
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [Bristol CNU](http://bristolcnu.github.io/). We use Jekyll to run our Github page and builds on template from [Kording lab page](http://kordinglab.com/).
 
 
 ## Run the page locally
@@ -38,7 +38,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render.
 
 
 ## Add yourself
