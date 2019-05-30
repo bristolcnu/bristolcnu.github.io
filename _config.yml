@@ -1,0 +1,71 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Bristol CNU"
+title:              "Bristol Computational Neuroscience Unit"
+description:        "We aim to further our understanding of brain functioning via computational and mathematical modelling."
+
+
+# URL
+url:                http://bristolcnu.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about" 
+  #- name:           "publications"
+  #  href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "seminars"
+    href:           "/seminars"    
+  - name:           "news"
+    href:           "/news"
+  - name:           "join us"
+    href:           "/joinus"    
+  #- name:           "resources"
+  #  href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html

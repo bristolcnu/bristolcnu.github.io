@@ -1,31 +1,98 @@
+---
+layout: default
+---
 
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
-<html>
-<font face="verdana, Sans-serif">
-<head>
-   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="GENERATOR" content="Mozilla/4.51 [en] (X11; I; OSF1 V4.0 alpha) [Netscape]">
-   <title>COMSM0021
-</title>
-</head>
+<div class='container'>
+    <header class="masthead text-center">
+      <!--<div style="width:1px; height:1px; visibility:hidden; overflow:hidden">
+        <img class='img-responsive center-block' src="/images/people/klab_chicago_2.jpg" />
+      </div>
+      <img class='img-responsive center-block' src="/images/people/klab_chicago.jpg" width="70%" height="70%" onmouseover="this.src='/images/people/klab_chicago_2.jpg'" width="70%" height="70%" onmouseout="this.src='/images/people/klab_chicago.jpg'" width="70%" height="70%" />-->
+      <img class='img-responsive center-block' src="/images/people/UoB2.png" width="100%" height="100%"/>
+
+      <p>
+      <h1>Bristol Computational Neuroscience Unit</h1><br>
+
+      <span style="display: block; margin-bottom: 1em"></span>
+      <font size=4>
+        BCNU is one of the leading computational neuroscience units in the UK.<br>We aim to further our understanding of brain functioning via computational and mathematical modelling.</font><br><br>
+
+        <font size=3>
+        ​We are based at the Faculty of Engineering and have strong links with the wider <a href="http://www.bristol.ac.uk/neuroscience/">Bristol Neuroscience</a> and Machine Learning communities at the University of Bristol.</font>
+
+        <br><br><br>
+        <img class='img-responsive center-block' src="/images/others/combined.png" width="80%" height="80%"/>
+
+        <span style="display: block; margin-bottom: 3em"></span>
+        </header>
+        <hline border=1>
+        <header class="masthead text-left">
+        <font size=4><b>Latest news:</b></font>
+        <div style="line-height:50%;">
+          <br>
+        </div>
+        <div class="content list">
+          {% for post in site.posts %}
+            {% if post.categories contains 'news' %}
+            <div class="list-item">
+            <p class="list-post-title">
+                <small>{{post.date | date: "%m/%d/%y" }}</small>: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </p>
+            </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </header>
+        <br>
+        <header class="masthead text-right">
+        Join our mailing list:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<form method="POST" action="https://formspree.io/conor.houghton@bristol.ac.uk">
+  <input type="email" name="email" placeholder="Your email">&nbsp;&nbsp;&nbsp;
+  <textarea name="message" style="display:none;" placeholder="Please add me to the CNU mailing list.">Please add me to the CNU mailing list.</textarea>
+  <button type="submit">Send</button>
+</form><br></header>
+
+        <table>
 
 
-<body  bgcolor=white link="slategrey" vlink="darkslategrey" alink="darkslategrey">
+        <header class="masthead text-center">
+          <tbody border=0>
+<tr>
+<td>        <header class="masthead text-left"><font size=4><b>Location</b></font>
+        <div style="line-height:50%;">
+          <br>
+        </div>
+        <div class="content list">
+          We are based at the beautiful Clifton campus as part of SCEEM, Faculty of Engineering, University of Bristol.<br> <br>
 
-<table>
-  <tbody>
-    <tr>
-      <td bgcolor="slategrey" width="30">&nbsp;</td>
+          <b>Bristol Computational Neuroscience Unit</b><br>
+          Merchant Venturers Building<br>
+          Woodland Road Bristol<br>
+          BS8 1UB, England<br>
+          United Kingdom<br>
+        </div></header></td>
+<td><div class="mapouter"><div class="gmap_canvas"><iframe width="363" height="220" id="gmap_canvas" src="https://maps.google.com/maps?q=Merchant%20Venturers%20Building%20%20%20%20%20%20%20%20%20%20%20Woodland%20Road%20Bristol%20%20%20%20%20%20%20%20%20%20%20BS8%201UB&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><style>.mapouter{position:relative;text-align:right;height:220px;width:363px;}.gmap_canvas {overflow:hidden;background:none!important;height:220px;width:363px;}</style></div></td>
+</tr>
+</tbody>
+</table>
+
+
+      </header>
+
       
-      <td bgcolor="darkslategrey" width="1">&nbsp;</td>
-      <td bgcolor=white width="10">&nbsp;</td>
+      <header class="masthead text-center">
 
-     <td width="15"> 
-<td>
-<h1 style="color: darkslategrey">Bristol Computational Neuroscience Unit</h1><p>
-<p>We do computational neuroscience, this will be our web site</p>
-</body>
-</html>
 
+      <a href="https://github.com/BristolCNU"><i class="fa fa-github"></i> BristolCNU</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://twitter.com/BristolCNU"><i class="fa fa-twitter"></i> BristolCNU</a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:cnu@bristol.ac.uk"><i class="fa fa-envelope-o"></i> cnu@bristol.ac.uk</a>
+      </p>
+      <small><span style="color:#9d9d9d">Made with Jekyll based on <a href="http://kordinglab.com">Kording Lab</a> template.</span></small><br><br>
+
+      <!--<a class="twitter-timeline" href="https://twitter.com/BristolCNU" data-widget-id="695051708246941697">Tweets by @BristolCNU</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>-->
+
+    </header>
+</div>
 
 
