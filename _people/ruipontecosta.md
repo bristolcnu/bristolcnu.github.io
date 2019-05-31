@@ -5,7 +5,7 @@ avatar: RuiPonteCosta_bw.png
 twitter: somineurons
 joined: 2018
 affiliation: Neural & machine learning
-website: http://ruipcosta.weebly.com/
+website: http://neuralmachinelearning.weebly.com/
 ---
 
 <!--- _Lecturer in Computational Neuroscience & Machine Learning, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
