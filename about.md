@@ -8,7 +8,7 @@ Computational neuroscientists apply computational and mathematical approaches to
 
 We are interested in the algorithmic structure of the central nervous system and the neurobiological systems and mechanisms that support them.
 
-### History
+#### History
 
 Computational Neuroscience at the University of Bristol has a long tradition.
 <br>
