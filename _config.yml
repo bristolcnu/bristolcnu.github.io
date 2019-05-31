@@ -9,7 +9,7 @@ description:        "We aim to further our understanding of brain functioning vi
 
 
 # URL
-url:                http://bristolcnu.github.io
+url:                https://bristolcnu.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
