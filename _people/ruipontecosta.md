@@ -11,7 +11,7 @@ website: http://ruipcosta.weebly.com/
 <!--- _Lecturer in Computational Neuroscience & Machine Learning, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
 <!--- _Principal Investigator of the Neural and Machine Learning group_-->
 
-<i class="fa fa-envelope-o"></i> `first.last(at))bristol.ac.uk`<br>
+<i class="fa fa-envelope-o"></i> `first.last(at)bristol.ac.uk`<br>
 <i class="fa fa-book"></i> <a href="https://scholar.google.co.uk/citations?user=otGgQKQAAAAJ&hl=en">`google scholar`</a><br>
 <i class="fa fa-link"></i> <a href="{{page.website}}">`group website`</a>
 
