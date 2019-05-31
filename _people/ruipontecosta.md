@@ -22,5 +22,5 @@ Bristol, BS8 1UB, England, United Kingdom<br>-->
 
 The [Neural and machine learning group](http://ruipcosta.weebly.com/) seeks to understand the principles of learning in the brain. Our work draws inspiration from different disciplines (neuroscience, machine learning, statistics, computer science, physics) across multiple levels of analysis, from single synapse to cross-area interactions via neural circuits. We collaborate with experimental and theoretical/machine learning labs in the UK and internationally.
 
-***keywords***: Cortical circuits, machine learning, synaptic plasticity, credit assignment, probabilistic inference, deep learning.
+***keywords***: Cortical circuits, synaptic plasticity, credit assignment, reinforcement learning, probabilistic inference, machine learning, deep learning.
 
