@@ -8,20 +8,17 @@ Computational neuroscientists apply computational and mathematical approaches to
 
 We are interested in the algorithmic structure of the central nervous system and the neurobiological systems and mechanisms that support them.
 
-#### History
 
+#### History
 Computational Neuroscience at the University of Bristol has a long tradition.
 <br>
 
 <hr>
+#### Location
 <div class="content list people" style="text-align: left;">
   <div class="list-item-people" style="width: 45%">
     <p class="list-post-title">
       <header class="masthead text-left">
-      	<b>Location</b>
-        <div style="line-height:50%;">
-          <br>
-        </div>
         <div class="content list">
           We are based in the beautiful Clifton campus as part of SCEEM, Faculty of Engineering, <a href="http://www.bristol.ac.uk">University of Bristol</a>.<br> <br>
 
@@ -29,7 +26,7 @@ Computational Neuroscience at the University of Bristol has a long tradition.
           Merchant Venturers Building<br>
           Woodland Road<br>
           BS8 1UB, Bristol<br>
-          United Kingdom<br><br>
+          United Kingdom<br><br><br>
         </div>
 
       </header>
