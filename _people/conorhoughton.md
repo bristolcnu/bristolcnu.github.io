@@ -4,11 +4,11 @@ position: pi
 avatar: ConorHoughton_bw.jpg
 twitter: conor
 joined: 2013
-affiliation: <span style="color:#FFFFFF">.</span>
+affiliation: 
 website: https://conorhoughton.github.io/
 ---
 
-- _Reader in Computational Neuroscience, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>
+<!--- _Reader in Computational Neuroscience, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
 
 <i class="fa fa-envelope-o"></i> `first.last(at)bristol.ac.uk`<br>
 <i class="fa fa-book"></i> <a href="https://scholar.google.co.uk/citations?user=VoP4kDQAAAAJ&hl=en">`google scholar`</a><br>

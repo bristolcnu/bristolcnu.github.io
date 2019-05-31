@@ -17,3 +17,8 @@ permalink: /news/
     {% endif %}
   {% endfor %}
 </div>
+
+
+<br>
+<hr>
+{% include footer.html %}
