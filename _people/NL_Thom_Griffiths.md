@@ -4,6 +4,6 @@ position: postdoc
 avatar: 
 twitter:
 joined: 4_2018
-affiliation: Tactile Robotics group
+affiliation: Nathan Lepora group
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: Ben Ward-Cherrier
 position: postdoc
-avatar: 
+avatar: Ben_WardCherrier.png
 twitter:
 joined: 4_2018
-affiliation: Tactile Robotics group
+affiliation: Nathan Lepora group
 ---
 

@@ -4,7 +4,7 @@ position: pi
 avatar: NathanLepora_bw.jpg
 twitter: natan
 joined: 2019
-affiliation: Tactile robotics
+affiliation: 
 website: http://www.lepora.com
 ---
 
@@ -19,6 +19,6 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-The [Tactile robotics group](http://www.lepora.com) does research at the intersection between robotics, sensory neuroscience and machine learning.
+[Nathan Lepora group](http://www.lepora.com) does research at the intersection between robotics, sensory neuroscience and machine learning.
 
 ***keywords***: Tactile robotics, machine learning, robotics and neuroscience.
