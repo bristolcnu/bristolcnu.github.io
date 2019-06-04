@@ -10,7 +10,7 @@ We are interested in the algorithmic structure of the central nervous system and
 
 
 #### History
-Computational Neuroscience at the University of Bristol has a long tradition.
+Computational neuroscience at the University of Bristol has a long tradition.
 <br>
 
 <hr>
