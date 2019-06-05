@@ -7,6 +7,7 @@ permalink: /joinus/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tn63aMX9ryY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
+<hr>
 
 ### Postdocs
 <header class="masthead text-justify" style="font-size:120%">
