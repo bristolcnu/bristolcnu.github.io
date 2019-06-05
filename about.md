@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-Computational neuroscientists apply computational and mathematical approaches to the study of the brain and, in the other direction, seek to uncover insights into computation and mathematics by working with experimental neuroscientists in trying to understanding how the brain works.​
+Computational neuroscientists apply computational and mathematical approaches to the study of the brain and, in the other direction, seek to uncover insights into computation and mathematics by working with experimental neuroscientists in trying to understanding how the brain works.​ Our work draws inspiration from a wide range of disciplines (e.g. neuroscience, mathematics, machine learning, statistics, computer science and physics).
 
 We are interested in the algorithmic structure of the central nervous system and the neurobiological systems and mechanisms that support them.
 
@@ -12,6 +12,10 @@ We are interested in the algorithmic structure of the central nervous system and
 #### History
 Computational neuroscience at the University of Bristol has a long tradition.
 <br>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7SXjI7zrluA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
 <hr>
 #### Location
