@@ -26,13 +26,13 @@ permalink: /people/
 
 <div class="pos_header">
 {% if item == 'postdoc' %}
-<h3>Postdoctoral Research Associates</h3>
+<h3>Postdoctoral research associates</h3>
  {% elsif item == 'pi' %}
-<h3>Principal Investigators</h3>
+<h3>Core faculty</h3>
  {% elsif item == 'gradstudent' %}
-<h3>Doctoral Students</h3>
+<h3>Doctoral students</h3>
 {% elsif item == 'visiting' %}
-<h3>Visiting Scholars</h3>
+<h3>Visiting scholars</h3>
  {% elsif item == 'others' %} 
 <h3>Affiliated faculty</h3>
 {% elsif item == 'alumni' %}

@@ -36,11 +36,11 @@ layout: default
             {% if post.categories contains 'news' %}
             <div class="list-item">
             <p class="list-post-title">
-                <small>{{post.date | date: "%m/%d/%y" }}</small>: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <small>{{post.date | date: "%d/%m/%y" }}</small>: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </p>
             </div>
             {% endif %}
-            {% if forloop.index0 == 2 %}
+            {% if forloop.index0 == 3 %}
               {% break %}
             {% endif %}
           {% endfor %}

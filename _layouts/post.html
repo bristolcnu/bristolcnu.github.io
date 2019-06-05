@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container content post">
   <h3><strong>{{ page.title }}</strong><br/>
-  <small>posted on {{ page.date | date: '%B %-d, %Y'}}</small></h3>
+  <small>posted on {{ page.date | date: '%-d %B, %Y'}}</small></h3>
   <hr>
   {{ content }}
   {% include social-share.html %}
