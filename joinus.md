@@ -13,7 +13,9 @@ permalink: /joinus/
 <header class="masthead text-justify" style="font-size:120%">
 We are always interested in hearing from potential postdocs - please contact individual PIs early and we can work on figuring out funding.
 Note that the University of Bristol has been particularly successful in getting <a href="https://www.bristol.ac.uk/red/development/international/mariecurie/mariecuriefellows/" target="_blank">Marie Curie Fellowships</a>.</header>
-<br>
+
+
+<hr>
 
 ### PhD students
 
@@ -27,7 +29,9 @@ Bristol has a wide range of CDTs that align with our research (e.g. <a href="htt
 
 <b>More info</b><br>
 UK PhDs take 3-4 years and usually start in September (although this is flexible). If you would like to do a PhD in our unit, we have a range of projects available. Many projects involve collaborations with experimentalists either here in Bristol, or Europe or US. Please contact us to discuss funding options, which vary a lot depending on your country of origin. Usually you would need a good Bachelors or Masters degree in computer science, biology, physics, engineering or maths before taking on a computational neuroscience PhD - but other backgrounds are possible. However, the most important thing is not your background, but that you enjoy research work, are curious, and want to understand how the brain works.</header>
-<br>
+
+
+<hr>
 
 #### Master students
 <header class="masthead text-justify" style="font-size:120%">
