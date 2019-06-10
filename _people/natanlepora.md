@@ -21,4 +21,4 @@ Bristol, BS8 1UB, England, United Kingdom<br>-->
 
 [Nathan Lepora group](http://www.lepora.com) does research at the intersection between robotics, sensory neuroscience and machine learning. The group is also affiliated with the [Bristol Robotics Lab](https://www.bristolroboticslab.com/).
 
-***keywords***: Tactile robotics, machine learning, robotics and neuroscience.
+***keywords***: Tactile robotics, decision making and machine learning.

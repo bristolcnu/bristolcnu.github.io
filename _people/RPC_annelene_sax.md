@@ -1,7 +1,7 @@
 ---
 name: Anne-Lene Sax
 position: gradstudent
-avatar: 
+avatar: AnneLene_Sax.png
 joined: 3_2018
 affiliation: Neural & machine learning group<br>[w/ Roland Baddeley]
 ---

@@ -1,7 +1,7 @@
 ---
 name: Raymond Chua
 position: gradstudent
-avatar: 
+avatar: Raymond_Chua.png
 joined: 3_2018
 affiliation: Neural & machine learning group<br>[w/ Doina Precup (McGill)]
 ---

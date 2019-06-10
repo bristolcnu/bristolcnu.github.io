@@ -1,7 +1,7 @@
 ---
 name: Naoki Masuda
 position: pi
-avatar: naoki_masuda.jpeg
+avatar: naoki_masuda.jpg
 twitter: 
 joined: 2019.5
 affiliation: 

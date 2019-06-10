@@ -1,7 +1,7 @@
 ---
 name: Milton Llera-Montero
 position: gradstudent
-avatar: 
+avatar: Milton_LleraMontero.png
 joined: 3_2018
 affiliation: Neural & machine learning group<br>[w/ Jeff Bowers]
 ---

@@ -1,7 +1,7 @@
 ---
 name: David Jia
 position: gradstudent
-avatar: 
+avatar: DavidJia.png
 joined: 3_2015
 affiliation: Neural & machine learning group<br>[w/ Tim Vogels (Oxford)]
 ---
