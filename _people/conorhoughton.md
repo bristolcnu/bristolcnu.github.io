@@ -2,7 +2,7 @@
 name: Conor Houghton
 position: pi
 avatar: ConorHoughton_bw.jpg
-twitter: conor
+twitter: conorjh
 joined: 2013
 affiliation: 
 website: https://conorhoughton.github.io/

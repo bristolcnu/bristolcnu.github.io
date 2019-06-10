@@ -13,7 +13,9 @@ website: http://www.naokimasuda.net/
 
 <i class="fa fa-envelope-o"></i> `first.last(at)bristol.ac.uk`<br>
 <i class="fa fa-book"></i> <a href="https://scholar.google.co.uk/citations?user=fZDoOnMAAAAJ&hl=en&oi=ao">`google scholar`</a><br>
-<i class="fa fa-link"></i> <a href="{{page.website}}">`group website`</a>
+<i class="fa fa-link"></i> <a href="{{page.website}}">`group website`</a>{% if {{page.twitter}} %}
+<i class="fa fa-twitter"></i><a href="https://twitter.com/{{page.twitter}}">`twitter`</a>
+{% endif %}
 
 <!--**Office**<br>
 Merchant Venturers Building<br>

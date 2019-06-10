@@ -21,4 +21,4 @@ Bristol, BS8 1UB, England, United Kingdom<br>-->
 
 [Cian O'Donnell group](https://seis.bristol.ac.uk/~co15268/) works on synaptic plasticity, memory, disorders and statistical methods for data analysis.
 
-***keywords***: Synapses, biophysics, plasticity, memory, Fragile-X, Autism and statistical data analysis.
+***keywords***: Synaptic plasticity, biophysics, memory, fragile-X, autism and statistical data analysis.

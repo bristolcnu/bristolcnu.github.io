@@ -2,7 +2,7 @@
 name: Rui Ponte Costa
 position: pi
 avatar: RuiPonteCosta_bw.png
-twitter: somineurons
+twitter: somnirons
 joined: 2018
 affiliation: Neural & machine learning
 website: http://neuralmachinelearning.weebly.com/

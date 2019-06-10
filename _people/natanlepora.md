@@ -2,7 +2,7 @@
 name: Nathan Lepora
 position: pi
 avatar: NathanLepora_bw.jpg
-twitter: natan
+twitter: tactilerobot
 joined: 2019
 affiliation: 
 website: http://www.lepora.com
