@@ -1,7 +1,7 @@
 ---
 name: Will Carr
 position: gradstudent
-avatar: 
+avatar: WillCarr_bw.jpg
 joined: 2_2018
 affiliation: Cian O'Donnell group<br>[w/ Liz Coulthard]
 ---

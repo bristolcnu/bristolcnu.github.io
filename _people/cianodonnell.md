@@ -2,9 +2,9 @@
 name: Cian O'Donnell
 position: pi
 avatar: CianODonnell_bw.jpg
-twitter: cian
+twitter: cian_neuro
 joined: 2015
-affiliation: 
+affiliation:
 website: https://seis.bristol.ac.uk/~co15268/
 ---
 
@@ -22,5 +22,3 @@ Bristol, BS8 1UB, England, United Kingdom<br>-->
 [Cian O'Donnell group](https://seis.bristol.ac.uk/~co15268/) works on synaptic plasticity, memory, disorders and statistical methods for data analysis.
 
 ***keywords***: Synapses, biophysics, plasticity, memory, Fragile-X, Autism and statistical data analysis.
-
-

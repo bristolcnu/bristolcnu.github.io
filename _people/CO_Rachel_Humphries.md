@@ -1,7 +1,7 @@
 ---
 name: Rachel Humphries
 position: gradstudent
-avatar: 
+avatar: RachelHumphries_bw.jpg
 joined: 2_2018
 affiliation: Cian O'Donnell group<br>[w/ Jack Mellor]
 ---
