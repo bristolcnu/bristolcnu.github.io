@@ -1,10 +1,9 @@
 ---
-name: Thom Griffiths
-position: postdoc
+name: Elohim Reis
+position: gradstudent
 avatar: 
-twitter:
-joined: 5_2018
-affiliation: Nathan Lepora group
+joined: 6_2018
+affiliation: Naoki Masuda group<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

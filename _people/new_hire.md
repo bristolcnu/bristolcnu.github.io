@@ -1,5 +1,5 @@
 ---
-name: new hire
+name: new hire (soon)
 position: pi
 avatar: 
 twitter: 

@@ -1,10 +1,10 @@
 ---
-name: Thom Griffiths
+name: Marinho Lopes
 position: postdoc
 avatar: 
 twitter:
-joined: 5_2018
-affiliation: Nathan Lepora group
+joined: 5_2019
+affiliation: Naoki Masuda group
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
