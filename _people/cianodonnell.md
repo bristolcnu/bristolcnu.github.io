@@ -19,6 +19,6 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-[Cian O'Donnell group](https://seis.bristol.ac.uk/~co15268/) works on synaptic plasticity, memory, disorders and statistical methods for data analysis.
+[Cian O'Donnell group](https://seis.bristol.ac.uk/~co15268/) works on synaptic plasticity, memory, neural circuits in autism, and statistical methods for neural data analysis.
 
-***keywords***: Synaptic plasticity, biophysics, memory, fragile-X, autism and statistical data analysis.
+***keywords***: Synaptic plasticity, biophysics, memory, fragile-X, autism, statistical data analysis.
