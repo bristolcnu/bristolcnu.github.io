@@ -1,7 +1,7 @@
 ---
-name: Thom Griffiths
+name: Thom Griffith
 position: postdoc
-avatar: 
+avatar: Thom_Griffith.jpg
 twitter:
 joined: 5_2018
 affiliation: Nathan Lepora group
