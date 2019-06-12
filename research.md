@@ -31,7 +31,7 @@ permalink: /research/
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains item %}
-    {% if profile.name == "new hire"%}
+    {% if profile.name == "new hire (soon)"%}
     	{% break %}
     {% endif %}
     <div class="list-item-people">
@@ -60,6 +60,17 @@ permalink: /research/
 </div>
 {% endfor %}
 
+We collaborate with research groups nationally and internationally, but also across the university:
+
+<ul>
+  <li>Several groups across <a href="http://www.bristol.ac.uk/neuroscience/" target="_blank">Bristol Neuroscience</a></li>
+  <li><a href="http://www.bristol.ac.uk/psychology/" target="_blank">School of Psychological Science</a></li>
+  <li><a href="https://www.bristolmathsresearch.org/statistical-science/" target="_blank">Institute for Statistical Science</a></li>
+  <li><a href="http://intelligentsystems.bristol.ac.uk/" target="_blank">Intelligent Systems Lab</a></li>
+  <li><a href="http://vilab.blogs.bristol.ac.uk/" target="_blank">Visual Information Lab</a></li>  
+</ul>  
+
+<hr>
 
 {% include footer.html %}
 
