@@ -30,7 +30,7 @@ Computational neuroscience at the University of Bristol has a long tradition.
           Merchant Venturers Building<br>
           Woodland Road<br>
           BS8 1UB, Bristol<br>
-          United Kingdom<br><br><br>
+          United Kingdom<br><div style="line-height:1%;"><br></div>
         </div>
 
       </header>
@@ -38,11 +38,11 @@ Computational neuroscience at the University of Bristol has a long tradition.
    </div>
    <div class="list-item-people">
       <p class="list-post-title">
-         <iframe width="135%" height="220px" id="gmap_canvas" src="https://maps.google.com/maps?q=Merchant%20Venturers%20Building%20%20%20%20%20%20%20%20%20%20%20Woodland%20Road%20Bristol%20%20%20%20%20%20%20%20%20%20%20BS8%201UB&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><style>.mapouter{position:relative;text-align:right;height:200%;width:125%;}.gmap_canvas {overflow:hidden;background:none!important;height:200%;width:125%;}</style>
+         <iframe width="135%" height="200px" style="top:-50px;" id="gmap_canvas" src="https://maps.google.com/maps?q=Merchant%20Venturers%20Building%20%20%20%20%20%20%20%20%20%20%20Woodland%20Road%20Bristol%20%20%20%20%20%20%20%20%20%20%20BS8%201UB&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><style>.mapouter{position:relative;top:-50px;text-align:right;height:200%;width:125%;}.gmap_canvas {overflow:hidden;background:none!important;height:200%;width:125%;}</style>
        </p>
     </div>
 </div>
-
+<br><br>
 <img class='img-responsive center-block' src="/images/people/UoB2.png" width="70%" height="30%"/>
 
 <hr>
