@@ -22,11 +22,12 @@ permalink: /research/
 {% endfor %}
 </ul>-->
 
+<h3>Research groups</h3>
 {% for item in people_array %}
 
 <div class="pos_header">
  {% if item == 'pi' %}
-<h3>Research groups</h3>
+
 
 <div class="content list people">
   {% for profile in people_sorted %}
