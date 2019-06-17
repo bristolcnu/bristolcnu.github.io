@@ -64,7 +64,8 @@ permalink: /research/
 We collaborate with research groups nationally and internationally, but also across the university:
 
 <ul>
-  <li>Several groups within <a href="http://www.bristol.ac.uk/neuroscience/" target="_blank">Bristol Neuroscience</a></li>
+  <li>The wider <a href="http://www.bristol.ac.uk/neuroscience/" target="_blank">Bristol Neuroscience</a></li>
+  <li><a href="http://www.bristol.ac.uk/phys-pharm-neuro/" target="_blank">School of Physiology, Pharmacology and Neuroscience</a></li>
   <li><a href="http://www.bristol.ac.uk/psychology/" target="_blank">School of Psychological Science</a></li>
   <li><a href="https://www.bristolmathsresearch.org/statistical-science/" target="_blank">Institute for Statistical Science</a></li>
   <li><a href="http://intelligentsystems.bristol.ac.uk/" target="_blank">Intelligent Systems Lab</a></li>
