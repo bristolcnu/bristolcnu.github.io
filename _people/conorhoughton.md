@@ -12,8 +12,7 @@ website: https://conorhoughton.github.io/
 
 <i class="fa fa-envelope-o"></i> `first.last(at)bristol.ac.uk`<br>
 <i class="fa fa-book"></i> <a href="https://scholar.google.co.uk/citations?user=VoP4kDQAAAAJ&hl=en">`google scholar`</a><br>
-<i class="fa fa-link"></i> <a href="{{page.website}}">`group website`</a>{% if {{page.twitter}} %}
-{% endif %}
+<i class="fa fa-link"></i> <a href="{{page.website}}">`group website`</a>
 
 <!--**Office**<br>
 Merchant Venturers Building<br>
