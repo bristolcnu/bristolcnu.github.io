@@ -26,26 +26,38 @@ layout: default
         <span style="display: block; margin-bottom: 3em"></span>
         </header>
         <hr>
-        <header class="masthead text-left">
-        <font size=4><b>Latest news:</b></font>
-        <div style="line-height:50%;">
-          <br>
-        </div>
-        <div class="content list">
-          {% for post in site.posts %}
-            {% if post.categories contains 'news' %}
-            <div class="list-item">
-            <p class="list-post-title">
-                <small>{{post.date | date: "%d/%m/%y" }}</small>: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                </p>
+
+        <div class="content list people" style="text-align: left;">
+          <div class="list-item-people" style="width: 57%">
+            <header class="masthead text-left">
+            <font size=4><b>Latest news:</b></font>
+            <br><br>
+            <div style="line-height:50%;">
+              <br>
             </div>
-            {% endif %}
-            {% if forloop.index0 == 3 %}
-              {% break %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </header>
+
+              <div class="content list">
+                {% for post in site.posts %}
+                  {% if post.categories contains 'news' %}
+                  <div class="list-item">
+                  <p class="list-post-title">
+                      <small>{{post.date | date: "%d/%m/%y" }}</small>: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                      </p>
+                  </div>
+                  {% endif %}
+                  {% if forloop.index0 == 3 %}
+                    {% break %}
+                  {% endif %}
+                {% endfor %}
+                <br>
+              </div>
+            </header>
+          </div>
+          <div class="list-item-people">
+            <a class="twitter-timeline" data-width="300"  data-chrome="nofooter noheader" data-height="200" href="https://twitter.com/BristolCNU" data-widget-id="695051708246941697">Tweets by @BristolCNU</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+           </div>
+         </div>
       <hr>
         <!--<header class="masthead text-right">
         Join our mailing list:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +65,8 @@ layout: default
   <input type="email" name="email" placeholder="Your email">&nbsp;&nbsp;&nbsp;
   <textarea name="message" style="display:none;" placeholder="Please add me to the CNU mailing list.">Please add me to the CNU mailing list.</textarea>
   <button type="submit">Send</button>
-</form><br></header>-->
+</form><br></header>
+<a class="twitter-timeline" data-width="300"  data-chrome="nofooter noborders" data-height="10" data-tweet-limit="3" href="https://twitter.com/BristolCNU">Tweets by @BristolCNU</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 
 <div class="content list people" style="text-align: left;">
@@ -89,6 +102,7 @@ layout: default
 
       <hr>      
       {% include footer.html %}
+
 
 
     <!--<a class="twitter-timeline" href="https://twitter.com/BristolCNU" data-widget-id="695051708246941697">Tweets by @BristolCNU</a>
