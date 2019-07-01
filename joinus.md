@@ -11,8 +11,8 @@ permalink: /joinus/
 
 ### Postdocs
 <header class="masthead text-justify" style="font-size:120%">
-We are always interested in hearing from potential postdocs - please contact individual PIs early and we can work on figuring out funding.
-Note that the University of Bristol has been particularly successful in getting <a href="https://www.bristol.ac.uk/red/development/international/mariecurie/mariecuriefellows/" target="_blank">Marie Curie Fellowships</a>.</header>
+We are always interested in hearing from potential postdocs - please contact individual PIs early and we can work on figuring out funding. There are many options available, such as the <a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.
+Also, the University of Bristol has been particularly successful in getting <a href="https://www.bristol.ac.uk/red/development/international/mariecurie/mariecuriefellows/" target="_blank">Marie Curie Fellowships</a>.</header>
 
 
 <hr>

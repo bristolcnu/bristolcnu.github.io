@@ -3,10 +3,10 @@ title: Meetings
 permalink: /meetings/
 ---
 
-### [<span style="color:#8B0000">Computational neuroscience seminars</span>](https://cnuseminars.blogs.bristol.ac.uk/)
+### [<span style="color:#A70712">Computational neuroscience seminars</span>](https://cnuseminars.blogs.bristol.ac.uk/)
 We regularly organise Bristol CNU seminars. See a detailed list of these and related seminars [here](https://cnuseminars.blogs.bristol.ac.uk/).
 
-### [<span style="color:#8B0000">Computational neuroscience lab meetings</span>](https://cnumeeting.blogs.bristol.ac.uk/)
+### [<span style="color:#A70712">Computational neuroscience lab meetings</span>](https://cnumeeting.blogs.bristol.ac.uk/)
 
 We run a weekly joint lab meeting. See a detailed list [here](https://cnumeeting.blogs.bristol.ac.uk/).
 
