@@ -3,7 +3,8 @@
 # # # # # # # #
 
 # Basic
-name:               Bristol <span style="color:#A70712">CNU</span>
+name:               Bristol CNU
+usename4navbar:     False   #Allows for a different name to be used in the navigation bar (see navbar.html)
 title:              "Bristol Computational Neuroscience Unit"
 description:        "We aim to further our understanding of brain functioning via computational and mathematical modelling."
 
