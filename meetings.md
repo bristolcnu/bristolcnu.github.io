@@ -12,7 +12,7 @@ We run a weekly joint lab meeting. See a detailed list [here](https://cnumeeting
 
 #### <span style="color:#5d5d5d">BCNU tea</span>
 
-We also meet up for tea (or coffee) every Tuesday morning.
+We also meet up for tea (or coffee) every Wednesday morning.
 
 <br>
 
