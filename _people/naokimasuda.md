@@ -1,6 +1,6 @@
 ---
 name: Naoki Masuda
-position: pi
+position: alumni_pi
 avatar: naoki_masuda.jpg
 twitter: 
 joined: 2019.5
