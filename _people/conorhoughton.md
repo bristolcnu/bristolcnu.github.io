@@ -19,6 +19,6 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-[Conor Houghton group](https://conorhoughton.github.io/) works on models of the cerebellum, language and information theory for neural data.
+[Conor Houghton group](https://conorhoughton.github.io/) works on language processing in the brain, models of the cerebellum and information theory for neural data.
 
-***keywords***: Language, cerebellum and information theory.
+***keywords***: neurolinguistics, language, cerebellum, information theory.
