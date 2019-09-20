@@ -1,7 +1,7 @@
 ---
 name: Rosalyn Moran
 position: alumnp
-avatar: 
+avatar: Rosalyn_Moran.png
 twitter: 
 joined: 2018
 affiliation: Kings College London
