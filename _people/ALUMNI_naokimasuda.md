@@ -1,10 +1,10 @@
 ---
 name: Naoki Masuda
-position: alumni
+position: alumnp
 avatar: naoki_masuda.jpg
 twitter: 
-joined: 2019.5
-affiliation: 
+joined: 2019
+affiliation: University of Buffalo
 website: http://www.naokimasuda.net/
 ---
 

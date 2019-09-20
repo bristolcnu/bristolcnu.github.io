@@ -1,8 +1,9 @@
 ---
-name: Elohim Reis
-position: gradstudent
+name: Marinho Lopes
+position: alumni
 avatar: 
-joined: 6_2018
+twitter:
+joined: 5_2019
 affiliation: Naoki Masuda group<br><span style="color:#FFFFFF">.</span>
 ---
 

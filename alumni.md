@@ -1,10 +1,10 @@
 ---
-title: People
-permalink: /people/
+title: Alumni
+permalink: /people/alumni
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
+{% assign people_array = "alumnp|alumni" | split: "|" %}
 
 
 <!--
@@ -35,6 +35,8 @@ permalink: /people/
 <h3>Visiting scholars</h3>
  {% elsif item == 'others' %} 
 <h3>Affiliated faculty</h3>
+{% elsif item == 'alumnp' %}
+<h3>Alumni Principal Investigator</h3>
 {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -68,10 +70,6 @@ permalink: /people/
 </div>
 <hr>
 {% endfor %}
-
-List of [CNU alumni](/people/alumni).
-
-<hr>
 
 {% include footer.html %}
 

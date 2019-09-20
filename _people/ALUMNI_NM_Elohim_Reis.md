@@ -1,8 +1,8 @@
 ---
-name: Simon Godwin
-position: gradstudent
+name: Elohim Reis
+position: alumni
 avatar: 
-joined: 6_2015
+joined: 6_2018
 affiliation: Naoki Masuda group<br><span style="color:#FFFFFF">.</span>
 ---
 

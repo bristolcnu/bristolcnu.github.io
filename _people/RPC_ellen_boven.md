@@ -1,10 +1,9 @@
 ---
-name: Kashin Sugishita
-position: postdoc
-avatar: 
-twitter:
-joined: 5_2019
-affiliation: Naoki Masuda group
+name: Ellen Boven
+position: gradstudent
+avatar: Ellen_Boven.png
+joined: 3_2019
+affiliation: Neural & machine learning group<br>[w/ Richard Apps]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

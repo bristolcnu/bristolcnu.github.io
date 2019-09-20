@@ -1,10 +1,9 @@
 ---
-name: Marinho Lopes
-position: postdoc
+name: Simon Godwin
+position: alumni
 avatar: 
-twitter:
-joined: 5_2019
-affiliation: Naoki Masuda group
+joined: 6_2015
+affiliation: Naoki Masuda group<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
