@@ -1,7 +1,7 @@
 ---
 name: Heng Wei Zhu
 position: gradstudent
-avatar: 
+avatar: Heng_WeiZhu.png
 joined: 3_2019
 affiliation: Neural & machine learning group<br>[w/ Jack Mellor]
 ---
