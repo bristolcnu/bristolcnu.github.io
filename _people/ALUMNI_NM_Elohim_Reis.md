@@ -1,6 +1,6 @@
 ---
 name: Elohim Reis
-position: alumni
+position: alumni_phd
 avatar: 
 joined: 6_2018
 affiliation: Naoki Masuda group<br><span style="color:#FFFFFF">.</span>

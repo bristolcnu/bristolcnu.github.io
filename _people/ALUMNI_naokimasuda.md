@@ -1,6 +1,6 @@
 ---
 name: Naoki Masuda
-position: alumnp
+position: alumni_leader
 avatar: naoki_masuda.jpg
 twitter: 
 joined: 2019

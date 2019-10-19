@@ -1,6 +1,6 @@
 ---
 name: Simon Godwin
-position: alumni
+position: alumni_phd
 avatar: 
 joined: 6_2015
 affiliation: Naoki Masuda group<br><span style="color:#FFFFFF">.</span>

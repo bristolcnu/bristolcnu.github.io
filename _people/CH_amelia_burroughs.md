@@ -4,7 +4,7 @@ position: postdoc
 avatar: Amelia_Burroughs.png
 twitter:
 joined: 1_2018
-affiliation: Conor Houghton group
+affiliation: Conor Houghton group<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

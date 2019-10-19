@@ -1,6 +1,6 @@
 ---
 name: Rafal Bogacz
-position: alumnp
+position: alumni_leader
 avatar: 
 twitter: 
 joined: 2013

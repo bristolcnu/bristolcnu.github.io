@@ -1,6 +1,6 @@
 ---
 name: Kashin Sugishita
-position: alumni
+position: alumni_ra
 avatar: 
 twitter:
 joined: 5_2019

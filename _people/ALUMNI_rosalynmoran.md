@@ -1,6 +1,6 @@
 ---
 name: Rosalyn Moran
-position: alumnp
+position: alumni_leader
 avatar: Rosalyn_Moran.png
 twitter: 
 joined: 2018
