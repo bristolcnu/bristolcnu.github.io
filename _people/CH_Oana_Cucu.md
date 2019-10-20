@@ -1,6 +1,6 @@
 ---
 name: Oana Cucu
-position: graduatestudent
+position: gradstudent
 avatar:
 joined: 1_2015
 affiliation: Conor Houghton group<br>[w/ Nina Kazanina]

@@ -1,6 +1,6 @@
 ---
 name: Haris Organtzidis
-position: graduatestudent
+position: gradstudent
 avatar: HarisOrgantzidis_BW.jpg
 joined: 1_2017
 affiliation: Conor Houghton group<br>[w/ Emma Robinson]
