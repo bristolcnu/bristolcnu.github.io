@@ -1,7 +1,7 @@
 ---
 name: Chloe Slaney
 position: graduatestudent
-avatar: ChloeSlaney.png
+avatar: ChloeSlaney_BW.jpg
 joined: 1_207
 affiliation: Conor Houghton group<br>[w/ Emma Robinson]
 ---
