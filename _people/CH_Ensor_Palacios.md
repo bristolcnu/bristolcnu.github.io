@@ -2,7 +2,7 @@
 name: Ensor Palacios
 position: gradstudent
 avatar: 
-joined: 3_2019
+joined: 1_2019
 affiliation: Conor Houghton group<br>[w/ Paul Chadderton]
 ---
 
