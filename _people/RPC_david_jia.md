@@ -3,7 +3,7 @@ name: David Jia
 position: postdoc
 avatar: DavidJia.png
 joined: 3_2015
-affiliation: Neural & machine learning group<br>
+affiliation: Neural & machine learning group<br>[visitor]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
