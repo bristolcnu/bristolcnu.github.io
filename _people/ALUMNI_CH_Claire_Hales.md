@@ -1,5 +1,5 @@
 ---
-name: Claire Hale
+name: Claire Hales
 position: alumni_phd
 avatar: ClaireHales_BW.JPG
 joined: 1_2013
