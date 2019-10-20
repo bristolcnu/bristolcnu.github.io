@@ -1,9 +1,10 @@
 ---
 name: Emma Roscow
-position: gradstudent
+position: postdoc
 avatar: Emma_Roscow.png
 joined: 4_2016
-affiliation: Nathan Lepora group<br>[w/ Matt Jones]
+affiliation: Nathan Lepora group<br>
+comment: formerly PhD student with Nathan Leport and Matt Jones
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

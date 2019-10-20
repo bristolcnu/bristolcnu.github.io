@@ -1,9 +1,9 @@
 ---
-name: Ola Bykowska
-position: alumni_phd
-avatar: Ola_Bykowska.png
-joined: 1_2015
-affiliation: Conor Houghton group<br>[w/ Zafar Bashir]
+name: Haris Organtzidis
+position: graduatestudent
+avatar: HarisOrgantzidis_BW.jpg
+joined: 1_2017
+affiliation: Conor Houghton group<br>[w/ Emma Robinson]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

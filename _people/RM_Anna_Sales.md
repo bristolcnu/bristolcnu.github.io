@@ -1,6 +1,6 @@
 ---
 name: Anna Sales
-position: gradstudent
+position: alumni_phd
 avatar: Anna_Sales.png
 joined: 5_2016
 affiliation: Rosalyn Moran group<br>[w/ Tony Pickering & Matt Jones]
