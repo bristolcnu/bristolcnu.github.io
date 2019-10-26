@@ -24,7 +24,7 @@ Also, the University of Bristol has been particularly successful in getting <a h
 <b>Neural Dynamics Wellcome Trust doctoral program</b><br>
 The <a href="https://www.bristol.ac.uk/neural-dynamics/" target="_blank">Neural Dynamics PhD</a> is a unique program that provides world-class training at the intersection between computational and experimental neuroscience.<br><br>
 
-<b>EPSRC Centres for Doctoral Training</b><br>
+<b>Centres for Doctoral Training</b><br>
 Bristol has a wide range of CDTs that align with our research (e.g. <a href="https://www.bristol.ac.uk/cdt/digital-health/" target="_blank">Digital Health</a>, <a href="http://www.bristol.ac.uk/cdt/interactive-ai/" target="_blank">Interactive AI</a>, <a href="http://www.bristol.ac.uk/cdt/compass/" target="_blank">Computational Statistics and Data Science</a> and <a href="https://www.farscope.bris.ac.uk" target="_blank">Robotics and Autonomous Systems</a>). You can find a detailed list <a href="http://www.bristol.ac.uk/doctoral-college/doctoral-training-centres/" target="_blank">here</a>. Contact individual PIs if you are interested in these programs.<br><br>
 
 <b>More info</b><br>
