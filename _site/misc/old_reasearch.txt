@@ -1,0 +1,86 @@
+I am removing the "research" section of the old website since we don't
+keep it up to date, basically the old page will only serve as a link
+to the new pages. The old text is here for achival purposes
+
+
+
+Particular interests of the Computational Neuroscience unit include:
+
+    Information theory and neuronal data
+    Language
+    Synaptic plasticity
+    Machine learning
+    Deep learning
+    Probabilistic inference
+    Credit assignment
+    Reinforcement learning
+    Computational modelling in the cerebellum
+    Statistical methods for neural population data
+    Animal and artificial perception
+    Biomimetics
+    Network and nonlinear dynamics
+
+For more information visit our Bristol CNU website.
+PhD Opportunities
+
+We are keen to supervise good students motivated to do PhD research; below is a list of potential areas.
+
+Neural and machine learning group (lead by Rui Ponte Costa)
+
+This group brings together computational neuroscience and machine learning. We have several projects available contact us if you are interested.
+
+Website: http://neuralmachinelearning.weebly.com
+
+Email: firstname.lastname(at)bristol.ac.uk
+
+Conor Houghton's group does research on cerebellum, decision making and neurolinguistics.
+
+At the moment he is most interested in supervizing research projects on
+
+- modelling neuromodulation in the cerebellar cortex
+
+- investigating neuronal corellates of language comprehension and learning
+
+- bin-free estimates of information theory quantities for neuronal data.
+
+Email: firstname.lastname(at)bristol.ac.uk
+
+Nathan Lepora's group does research on biometic computing.
+
+He would consider PhD students in Computational/Mathematical Neuroscience on topics relating to my Leverhulme Leadership award on ‘A biomimetic forebrain for robot touch’ (www.lepora.com/leverhulme), specifically
+
+- System-level models of the forebrain based on statistical optimality
+
+- Related models of perceptual decision making, action selection and active perception
+
+- Embodiment of these models on robots (3D-printed tactile robot hands and tactile whisker arrays)
+
+Email: firstletter.lastname(at)bristol.ac.uk
+
+Naoki Masuda's group does research on networks and neuroscience.
+
+He would consider PhD students in the following topics in neuroscience:
+
+- Network neuroscience: network analysis (also known as graph theory) of MRI, EEG and other
+
+- Neuroimaging data analysis inspired by statistical-physics methods (e.g. Ising model)
+
+- Computational studies of whole-brain dynamics, related to the rest, ageing and diseases (these context also apply to the first two topics)
+
+Website: http://www.naokimasuda.net 
+
+Email: firstname.lastname(at)bristol.ac.uk
+
+Cian O’Donnell’s group does research on:
+
+biophysical modelling of synaptic plasticity; neural circuit dynamics in autism; statistical methods for neural population data.
+
+Example projects for each respective topic include:
+
+- Understanding the computational benefits of low-copy number molecular signalling at synapses for learning.
+
+- Analysing and modelling neural responses to sensory stimuli in mouse models of autism, in collaboration with experimental colleagues.
+
+- Developing new machine learning/statistical methods specifically for neural data that is recorded in multiple brain regions simultaneously.
+
+Email: firstname.lastname(at)bristol.ac.uk
