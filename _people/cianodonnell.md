@@ -5,7 +5,7 @@ avatar: CianODonnell_bw.jpg
 twitter: cian_neuro
 joined: 2015
 affiliation:
-website: https://seis.bristol.ac.uk/~co15268/
+website: https://odonnellgroup.github.io
 ---
 
 <!--- _Lecturer in Computer Science, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
