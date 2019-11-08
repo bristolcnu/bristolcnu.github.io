@@ -35,7 +35,7 @@ UK PhDs take 3-4 years and usually start in September (although this is flexible
 
 #### Master students
 <header class="masthead text-justify" style="font-size:120%">
-If you are a student on the University of Bristol Conversion, MSc in Computer Science or in Engineering Math (or related degree), please check the project system on SAFE for available projects (or alternately contact us early). Projects can vary in their 1) level of computational/mathematical difficulty, 2) level of biological detail, and 3) whether they are more focused on computational modelling (simulating the brain) versus statistical data analysis/machine learning. We can work out the details of the project to match your skills and interests.</header>
+If you are a student on the University of Bristol Conversion, MSc in Computer Science or in Engineering Math (or related degree), please contact us to discuss possible projects. Projects can vary in their 1) level of computational/mathematical difficulty, 2) level of biological detail, and 3) whether they are more focused on computational modelling (simulating the brain) versus statistical data analysis/machine learning. We can work out the details of the project to match your skills and interests.</header>
 <br>
 
 #### Undergrad students
