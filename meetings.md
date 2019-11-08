@@ -25,7 +25,7 @@ Combined experimental and computational seminars organised by students of the Ne
 <b>[Mind and machine seminars](https://mindandmachine.blogs.bristol.ac.uk/seminars/)</b> <br>
 Cognitive computational neuroscience seminars with a focus on deep learning.
 
-<b>[Neuroscience events](http://www.bristol.ac.uk/neuroscience/events/diary/)</b> <br>
+<b>[Neuroscience events](http://www.bristol.ac.uk/neuroscience/events/)</b> <br>
 Bristol Neuroscience is a vibrant community with regular events.<br><br>
 
 Join our mailing list:
