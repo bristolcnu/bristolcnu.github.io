@@ -1,7 +1,7 @@
 ---
 name: Naomi Berthaut
 position: gradstudent
-avatar: 
+avatar: Naomi_Berthaut.jpg
 joined: 9_2019
 affiliation: Cian O'Donnell group<br>[w/ Mike Ashby]
 ---
