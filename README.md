@@ -1,7 +1,7 @@
 # Bristol Computational Neuroscience Unit page
 
 
-This is repository for [Bristol CNU](http://bristolcnu.github.io/). We use Jekyll to run our Github page and builds on template from [Kording lab page](http://kordinglab.com/).
+This is repository for [Bristol CNU](http://bristolcnu.github.io/). We use Jekyll to run our Github page that builds upon the template from the [Kording lab webpage](http://kordinglab.com/).
 
 
 ## Run the page locally
