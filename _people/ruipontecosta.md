@@ -5,7 +5,7 @@ avatar: RuiPonteCosta_bw.png
 twitter: somnirons
 joined: 2018
 affiliation: Neural & machine learning
-website: http://neuralmachinelearning.weebly.com/
+website: http://neuralml.github.io/
 ---
 
 <!--- _Lecturer in Computational Neuroscience & Machine Learning, Dept of Computer Science, SCEEM, Faculty of Engineering, University of Bristol_<br>-->
