@@ -1,8 +1,8 @@
 ---
 name: Will Greedy
 position: gradstudent
-avatar: 
-joined: 1_2020
+avatar: Will_Greedy.jpg
+joined: 3_2020
 affiliation: Neural & machine learning group<br><span style="color:#FFFFFF">.</span>
 ---
 
