@@ -4,7 +4,7 @@ position: alumni_leader
 avatar: naoki_masuda.jpg
 twitter: 
 joined: 2019
-affiliation: University of Buffalo
+affiliation: Associate Prof.<br>University of Buffalo
 website: http://www.naokimasuda.net/
 ---
 
