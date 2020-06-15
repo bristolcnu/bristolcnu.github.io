@@ -1,5 +1,5 @@
 ---
-name: Krasimira Tsaneva-Atanasova
+name: Krasi. Tsaneva-Atanasova
 position: alumni_leader
 avatar: 
 twitter: 
