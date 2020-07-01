@@ -3,7 +3,7 @@ title: Meetings
 permalink: /meetings/
 ---
 
-### [<span style="color:#A70712">Computational neuroscience meetings</span>](https://cnumeeting.blogs.bristol.ac.uk/)
+### [<span style="color:#A70712">CNU meetings</span>](https://cnumeeting.blogs.bristol.ac.uk/)
 
 We run a weekly joint meeting, including CNU seminars. See a detailed list [here](https://cnumeeting.blogs.bristol.ac.uk/).
 
