@@ -3,12 +3,9 @@ title: Meetings
 permalink: /meetings/
 ---
 
-### [<span style="color:#A70712">Computational neuroscience seminars</span>](https://cnuseminars.blogs.bristol.ac.uk/)
-We regularly organise Bristol CNU seminars. See a detailed list of these and related seminars [here](https://cnuseminars.blogs.bristol.ac.uk/).
+### [<span style="color:#A70712">Computational neuroscience meetings</span>](https://cnumeeting.blogs.bristol.ac.uk/)
 
-### [<span style="color:#A70712">Computational neuroscience lab meetings</span>](https://cnumeeting.blogs.bristol.ac.uk/)
-
-We run a weekly joint lab meeting. See a detailed list [here](https://cnumeeting.blogs.bristol.ac.uk/).
+We run a weekly joint meeting, including CNU seminars. See a detailed list [here](https://cnumeeting.blogs.bristol.ac.uk/).
 
 #### <span style="color:#5d5d5d">BCNU tea</span>
 
@@ -16,7 +13,7 @@ We also meet up for tea (or coffee) every Wednesday morning.
 
 <br>
 
-#### Other meetings:
+#### Other relevant meetings:
 
 
 <b>[Neural dynamics forum](https://ndforum.blogs.bristol.ac.uk/)</b> <br>
