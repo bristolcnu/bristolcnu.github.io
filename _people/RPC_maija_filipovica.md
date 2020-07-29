@@ -2,7 +2,7 @@
 name: Maija Filipovica
 position: gradstudent
 avatar: Maija_Filipovica_bw.png
-joined: 2021
+joined: 3_2021
 affiliation: Neural & machine learning group<br>[from Jan 2021]
 ---
 
