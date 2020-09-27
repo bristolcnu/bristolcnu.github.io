@@ -4,7 +4,7 @@ position: postdoc
 avatar: RahulGupta.jpg
 twitter:
 joined: 2_2019
-affiliation: Cian O'Donnell group
+affiliation: Cian O'Donnell group<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
