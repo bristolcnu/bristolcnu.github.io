@@ -2,7 +2,7 @@
 name: Sydney Dimmock
 position: gradstudent
 avatar: SydneyDimmock_bw.jpg
-joined: 10_2019
+joined: 2_2019
 affiliation: Cian O'Donnell group<br>[w/ Clea Warburton]
 ---
 

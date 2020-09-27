@@ -2,7 +2,7 @@
 name: Kipp Freud
 position: gradstudent
 avatar: KippFreud_BW.jpg
-joined: 11_2019
+joined: 2_2019
 affiliation: Cian O'Donnell group<br>[w/ Matt Jones and Liz Coulthard]
 ---
 

@@ -3,7 +3,7 @@ name: Rahul Gupta
 position: postdoc
 avatar: RahulGupta.jpg
 twitter:
-joined: 10_2019
+joined: 2_2019
 affiliation: Cian O'Donnell group
 ---
 
