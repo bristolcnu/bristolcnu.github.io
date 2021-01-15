@@ -2,8 +2,8 @@
 name: Dabal Pedamonti
 position: gradstudent
 avatar: DabalPedamonti.png
-joined: 2020
-affiliation: <span>[w/ Nathan Lepora]</span><br><span style="color:#FFFFFF">.</span>
+joined: 3_2020
+affiliation: Neural & machine learning group<br>[w/ Nathan Lepora]
 
 ---
 
