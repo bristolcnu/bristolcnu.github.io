@@ -15,3 +15,9 @@ affiliation: Neural & machine learning group<br><span style="color:#FFFFFF">.</s
  {% endif %}
 
 <b>{{page.affiliation}}</b>
+
+<header class="masthead text-justify" style="font-size:120%">
+Before pursuing my Ph.D. at Bristol, I completed my undergraduate degree in Computer Science at the University of Southampton and an MSc in Artificial Intelligence at the University of Edinburgh. I am interested in bridging the gap between artificial learning systems and the brain by investigating how common ideas from Machine Learning can be implemented in more biologically plausible ways. My current research draws inspiration from the ideas of error backpropagation and adaptive optimisation methods which are both essential to the successes of many artificial systems. Specifically, my work focuses on how the brain could be learning through the use of backpropagation-like gradient signals and how neuromodulatory systems, such as the cholinergic system, could be playing a role to influence this process.
+
+</header>
+<br><br>
