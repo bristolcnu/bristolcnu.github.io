@@ -3,7 +3,7 @@ name: Kevin Kermani Nejad
 title: Kevin Kermani Nejad
 position: gradstudent
 avatar: KevinNejad.png
-joined: 2_2021
+joined: 3_2021
 affiliation: Neural & machine learning group<br>[w/ Paul Anastasiades]
 
 ---
