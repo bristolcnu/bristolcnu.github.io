@@ -22,7 +22,7 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 <header class="masthead text-justify" style="font-size:120%">
-The <a href="http://neuralmachinelearning.weebly.com/">Neural and machine learning group</a> seeks to understand the principles of learning in the brain. Our work draws inspiration from different disciplines (neuroscience, machine learning, statistics, computer science, physics) across multiple levels of analysis, from single synapse to cross-area interactions via neural circuits. We collaborate with experimental and theoretical/machine learning labs in the UK and internationally.
+The <a href="http://neuralml.github.io/">Neural and machine learning group</a> seeks to understand the principles of learning in the brain. Our work draws inspiration from different disciplines (neuroscience, machine learning, statistics, computer science, physics) across multiple levels of analysis, from single synapse to cross-area interactions via neural circuits. We collaborate with experimental and theoretical/machine learning labs in the UK and internationally.
 </header><br>
-***keywords***: Cortical circuits, synaptic plasticity, credit assignment, reinforcement learning, probabilistic inference, machine learning and deep learning.
+***keywords***: Cortical circuits, synaptic plasticity, credit assignment, neuromodulation, systems neuroscience, machine learning and deep learning.
 
