@@ -1,10 +1,10 @@
 ---
 name: Cian O'Donnell
-position: pi
+position: others
 avatar: CianODonnell_bw.jpg
 twitter: cian_neuro
 joined: 2015
-affiliation:
+affiliation: Ulster University
 website: https://odonnellgroup.github.io
 ---
 
@@ -19,6 +19,6 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-[Cian O'Donnell group](https://seis.bristol.ac.uk/~co15268/) works on synaptic plasticity, memory, neural circuits in autism, and statistical methods for neural data analysis.
+[Cian O'Donnell group](https://odonnellgroup.github.io) works on synaptic plasticity, memory, neural circuits in autism, and statistical methods for neural data analysis.
 
 ***keywords***: Synaptic plasticity, biophysics, memory, fragile-X, autism and statistical data analysis.
