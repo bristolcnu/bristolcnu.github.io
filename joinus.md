@@ -9,6 +9,10 @@ permalink: /joinus/
 
 <hr>
 
+<header class="masthead text-justify" style="font-size:120%">
+<p>Diversity leads to new creative solutions. We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities. Bristol has an exciting diversity of cultures and backgrounds, making it an unique open-minded city to live in. </p>
+</header>
+
 ### Postdocs
 <header class="masthead text-justify" style="font-size:120%">
 We are always interested in hearing from potential postdocs - please contact individual PIs early and we can work on figuring out funding. There are many options available, such as the <a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.
