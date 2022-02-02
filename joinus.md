@@ -46,7 +46,7 @@ If you are a student on the University of Bristol Conversion, MSc in Computer Sc
 
 #### Undergrad students
 <header class="masthead text-justify" style="font-size:120%">
-If you are a student on the University of Bristol BSc or MEng degree in Computer Science, Engineering Math or a related degree, please contact us early in the academic year to discuss possible computational neuroscience projects. Projects can vary in their 1) level of computational/mathematical difficulty, 2) level of biological detail, and 3) whether they are more focused on computational modelling (simulating the brain) versus statistical data analysis/machine learning. It also would be good, but not essential, if you take or have taken one of our teaching units (<i>Computational Neuroscience</i> and <i>Information Processing and the Brain</i>) jointly taught by Cian O'Donell, Conor Houghton, Rui Ponte Costa and Laurence Aitchison.</header>
+If you are a student on the University of Bristol BSc or MEng degree in Computer Science, Engineering Math or a related degree, please contact us early in the academic year to discuss possible computational neuroscience projects. Projects can vary in their 1) level of computational/mathematical difficulty, 2) level of biological detail, and 3) whether they are more focused on computational modelling (simulating the brain) versus statistical data analysis/machine learning. It also would be good, but not essential, if you take or have taken one of our teaching units (<i>Computational Neuroscience</i> and <i>Information Processing and the Brain</i>) jointly taught by us.</header>
 <br>
 
 
