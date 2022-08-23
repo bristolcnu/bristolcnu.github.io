@@ -3,7 +3,7 @@ name: Anne-Lene Sax
 position: postdoc
 avatar: AnneLene_Sax.png
 joined: 3_2018
-affiliation: Neural & machine learning group<br>[w/ R Baddeley and W Ji Ma (NYU)]
+affiliation: Neural & machine learning group<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
