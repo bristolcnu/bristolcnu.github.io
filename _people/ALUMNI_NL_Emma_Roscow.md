@@ -10,7 +10,7 @@ affiliation: Nathan Lepora group<br><span style="color:#FFFFFF">.</span>
 
  {% if page.position == 'postdoc' %}
 <h4>Postdoctoral research associate</h4>
- {% elsif page.p osition == 'gradstudent' %}
+ {% elsif page.position == 'gradstudent' %}
 <h4>PhD student</h4>
  {% endif %}
 
