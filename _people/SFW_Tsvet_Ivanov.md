@@ -3,7 +3,7 @@ name: Tsvet Ivanov
 title: Tsvet Ivanov
 position: gradstudent
 avatar: 
-joined: 3_2022
+joined: 6_2023
 affiliation: CANN group<br>[w/ Matt Jones]
 
 ---
