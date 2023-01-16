@@ -3,7 +3,7 @@ name: Callum Young
 title: Callum Young
 position: gradstudent
 avatar: Callum_Young_bw.png
-joined: 2022_2
+joined: 3_2022
 affiliation: Neural & machine learning group<br>[w/ Paul Dodson]
 
 ---

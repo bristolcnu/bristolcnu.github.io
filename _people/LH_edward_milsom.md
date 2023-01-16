@@ -1,5 +1,5 @@
 ---
-name: Ben Anson
+name: Edward Milsom
 position: gradstudent
 avatar: 
 joined: 5_2022

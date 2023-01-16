@@ -1,8 +1,8 @@
 ---
-name: Ben Anson
+name: Maxime Robeyns
 position: gradstudent
 avatar: 
-joined: 5_2022
+joined: 5_2021
 affiliation: Laurence Aitchison group<br><span style="color:#FFFFFF">.</span>
 ---
 

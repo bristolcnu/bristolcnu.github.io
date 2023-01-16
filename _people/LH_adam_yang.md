@@ -2,7 +2,7 @@
 name: Adam Yang
 position: gradstudent
 avatar: 
-joined: 1_2019
+joined: 5_2019
 affiliation: Laurence Aitchison group<br><span style="color:#FFFFFF">.</span>
 ---
 

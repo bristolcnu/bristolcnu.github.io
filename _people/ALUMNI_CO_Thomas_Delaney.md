@@ -1,6 +1,6 @@
 ---
 name: Thomas Delaney
-position: gradstudent
+position: alumni_phd
 avatar: ThomasDelaney_bw.jpg
 joined: 2_2016
 affiliation: Cian O'Donnell group<br>[w/ Mike Ashby]

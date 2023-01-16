@@ -1,6 +1,6 @@
 ---
 name: Emma Roscow
-position: postdoc
+position: alumni_ra
 avatar: Emma_Roscow.png
 joined: 4_2016
 affiliation: Nathan Lepora group<br><span style="color:#FFFFFF">.</span>

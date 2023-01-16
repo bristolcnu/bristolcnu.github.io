@@ -1,8 +1,8 @@
 ---
-name: Ben Anson
+name: Thomas Heap
 position: gradstudent
 avatar: 
-joined: 5_2022
+joined: 5_2020
 affiliation: Laurence Aitchison group<br><span style="color:#FFFFFF">.</span>
 ---
 

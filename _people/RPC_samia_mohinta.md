@@ -3,8 +3,8 @@ name: Samia Mohinta
 title: Samia Mohinta
 position: gradstudent
 avatar: SamiaMohinta.png
-joined: 2022_1
-affiliation: Neural & machine learning group<br>[visitor, w/ Albert Cardona (Cambridge)]
+joined: 3_2022
+affiliation: Neural & machine learning group<br>[visitor, w/ Cardona (Cambridge)]
 
 ---
 

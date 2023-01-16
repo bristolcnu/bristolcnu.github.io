@@ -1,9 +1,9 @@
 ---
-name: Ben Anson
+name: James Malkin
 position: gradstudent
 avatar: 
-joined: 5_2022
-affiliation: Laurence Aitchison group<br><span style="color:#FFFFFF">.</span>
+joined: 1_2021
+affiliation: Conor Houghton group<br>[w/ Laurence Aitchison]
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -15,9 +15,3 @@ affiliation: Laurence Aitchison group<br><span style="color:#FFFFFF">.</span>
  {% endif %}
 
 <b>{{page.affiliation}}</b>
-
-<header class="masthead text-justify" style="font-size:120%">
-
-
-</header>
-<br><br>
