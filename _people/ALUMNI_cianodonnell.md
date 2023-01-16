@@ -4,7 +4,7 @@ position: alumni_leader
 avatar: CianODonnell_bw.jpg
 twitter: cian_neuro
 joined: 2015
-affiliation: Ulster University
+affiliation: Senior Lecturer<br>Ulster University
 website: https://odonnellgroup.github.io
 ---
 
