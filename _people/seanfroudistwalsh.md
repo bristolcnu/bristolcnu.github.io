@@ -4,7 +4,7 @@ position: pi
 avatar: SeanFroudistWalsh_bw.png
 twitter: seanfw
 joined: 2022
-affiliation: 
+affiliation: Cognition, Anatomy & Neural Networks (CANN) Group
 website: https://www.sfwneuro.com/
 ---
 
